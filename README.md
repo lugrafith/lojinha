@@ -1,0 +1,2 @@
+# lojinha
+Plataforma de lojinhas
